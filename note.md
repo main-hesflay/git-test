@@ -12,3 +12,6 @@ Staged ortamına eklenmiş bir dosyanın takibinin bırakılması yani untracked
 
 ## git merge
 Git'de merge işlemi başka bir branch'deki değişiklikleri üzerinde çalıştığınız kendi branch'inize entegre etme işlemidir.
+
+## git pull
+komutu uzak havuzdaki değişiklikleri kendi kodunuzu tuttuğunuz yere getirir. 
