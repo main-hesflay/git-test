@@ -3,7 +3,7 @@
 ```
 git add
 ```
-git add. Repoya bir dosya eklemek için kullanılır.
+Repoya bir dosya eklemek için kullanılır.
 
 ```
 git status
