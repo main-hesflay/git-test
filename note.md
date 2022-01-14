@@ -5,3 +5,9 @@ git status = Üzerinde çalışılan projenin o anki durumu hakkında bilgi veri
 git diff = yapılan değişiklikleri gösterir.
 
 git rm = Staged ortamına eklenmiş bir dosyanın takibinin bırakılması yani untracked (izlenmeyen) hale getirilmesi sağlayan komuttur.
+
+git merge =
+
+
+
+.gitignore =
