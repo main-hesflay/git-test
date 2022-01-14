@@ -3,7 +3,7 @@
 ```
 git add
 ```
-Yeni eklenen veya üzerinde değişiklik yapılan dosyaları staged ortamına göndermek için kullanılır.
+git add. Repoya bir dosya eklemek için kullanılır.
 
 ```
 git status
