@@ -6,7 +6,7 @@ Yeni eklenen veya üzerinde değişiklik yapılan dosyaları staged ortamına g�
 ## git status
 Üzerinde çalışılan projenin o anki durumu hakkında bilgi verir. Yapılan değişiklikler, eklenen ve silinen dosyalar gibi bilgiler listelenir.
 
-## git dif 
+## git diff
 yapılan değişiklikleri gösterir.
 
 ## git rm 
