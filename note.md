@@ -7,3 +7,13 @@ git diff = yapılan değişiklikleri gösterir.
 git rm = Staged ortamına eklenmiş bir dosyanın takibinin bırakılması yani untracked (izlenmeyen) hale getirilmesi sağlayan komuttur.
 
 git merge = Git'de merge işlemi başka bir branch'deki değişiklikleri üzerinde çalıştığınız kendi branch'inize entegre etme işlemidir.
+
+
+
+# Deneme
+
+## Alt Bilgi
+lakdfkgdkdrgth
+asdsfgdfhplg
+
+[Lorem ipsum](https://google.com)
