@@ -1,6 +1,8 @@
 # git Komutları
 
-## git add
+```
+git add
+```
 Yeni eklenen veya üzerinde değişiklik yapılan dosyaları staged ortamına göndermek için kullanılır.
 
 ## git status
