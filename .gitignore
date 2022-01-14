@@ -19,3 +19,4 @@ img/
 password.txt
 
 # LOG
+*.log
